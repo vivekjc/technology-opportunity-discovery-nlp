@@ -1,6 +1,8 @@
 
 ## Technology Opportunity Discovery using Naive Bayes and Natural  Lanugage Processing
 
+[Click here to read the research paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223404)
+
 The following files are included with this project
 
 1. Python Code in Jupyter Notebook
